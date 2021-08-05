@@ -1,3 +1,7 @@
+* {
+    margin: auto;
+}
+
 body {
     font-family: calibri;
     background-color: rgb(240, 240, 240);
@@ -6,8 +10,10 @@ body {
 
 /*header*/
 
-#liga {
-    margin-left: 91.9px;
+.liga {
+        margin-left: 50px;
+        padding-top: 21px;
+        position: absolute;
 }
 
 .heads {
@@ -16,42 +22,42 @@ body {
     color: white;
     background-color: #162E58;
     height: 120px;
-    padding-top: 10px;
-    width: 1350px;
+    width: 1370.5px;
+    margin-left: -5px;
 }
 
 #partida {
     color: white;
     position: absolute;
-    margin-top: 17px;
+    margin-top: 90px;
     margin-left: 290px;
 }
 
 #notice {
     color: white;
     position: absolute;
-    margin-top: 17px;
+    margin-top: 90px;
     margin-left: 430px;
 }
 
 #classi {
     color: white;
     position: absolute;
-    margin-top: 17px;
+    margin-top: 90px;
     margin-left: 580px;
 }
 
 #stats {
     color: white;
     position: absolute;
-    margin-top: 17px;
+    margin-top: 90px;
     margin-left: 780px;
 }
 
 #jogadores {
     color: white;
     position: absolute;
-    margin-top: 17px;
+    margin-top: 90px;
     margin-left: 950px;
 }
 
